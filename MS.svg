@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <rect
+     style="fill:#000000;fill-opacity:1"
+     width="120"
+     height="120"
+     x="0"
+     y="0"
+     id="rect2" />
+  <rect
+     style="fill:#f1511b;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0"
+     id="rect349"
+     width="57.321678"
+     height="52.939384"
+     x="0"
+     y="0"
+     ry="2.2819523e-15"
+     transform="scale(0.95949738,1.0389241)" />
+  <rect
+     style="fill:#80cc28;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0"
+     id="rect349-3"
+     width="57.321678"
+     height="52.939384"
+     x="0"
+     y="0"
+     ry="2.2819523e-15"
+     transform="matrix(0.95949738,0,0,1.0389241,65,0)" />
+  <rect
+     style="fill:#00adef;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0"
+     id="rect349-6"
+     width="57.321678"
+     height="52.939384"
+     x="0"
+     y="0"
+     ry="2.2819523e-15"
+     transform="matrix(0.95949738,0,0,1.0389241,0,64.999998)" />
+  <rect
+     style="fill:#fbbc09;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0"
+     id="rect349-3-7"
+     width="57.321678"
+     height="52.939384"
+     x="0"
+     y="0"
+     ry="2.2819523e-15"
+     transform="matrix(0.95949738,0,0,1.0389241,65,65.066003)" />
+</svg>
